@@ -2,12 +2,12 @@
 
 body {
 
-margin: 0;
-padding: 0;
-height: 100vh;
-width: 100vw;
-overflow-x: hidden;
-background-color: black;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100vw;
+    overflow-x: hidden;
+    background-color: black;
 
 }
 
@@ -39,9 +39,9 @@ background-color: black;
 
 .rowdearriba {
 
-background-color: black;
-display: flex;
-justify-content: center;
+    background-color: black;
+    display: flex;
+    justify-content: center;
 
 }
 
@@ -52,7 +52,7 @@ justify-content: center;
     background:
         linear-gradient(to right,
             orange,
-            rgb(150, 128, 30)),
+            rgb(233, 127, 28)),
         linear-gradient(to right,
             rgba(255, 0, 0, 1),
             rgba(255, 0, 180, 1),
@@ -83,7 +83,7 @@ justify-content: center;
 
 .marron {
 
-color: rgb(97, 37, 37);
+    color: rgb(97, 37, 37);
 
 }
 
@@ -92,19 +92,19 @@ color: rgb(97, 37, 37);
 /* HEADER */
 
 
-.espacionavbarheader{
+.espacionavbarheader {
 
-height: 12em;
-width: 100%;
-background-color: black;
+    height: 12em;
+    width: 100%;
+    background-color: black;
 
 }
 
 .subtitulo {
 
-font-family: fantasy;
-font-size: 50px;
-margin-top: 5px;
+    font-family: fantasy;
+    font-size: 50px;
+    margin-top: 5px;
 
 }
 
@@ -115,15 +115,15 @@ margin-top: 5px;
 
 .burgerprincipal {
 
-margin-left: -0px;
-scale: .8;
+    margin-left: -0px;
+    scale: .8;
 
 }
 
 
 .segundacolumnaindex {
 
-margin-top: 50px;
+    margin-top: 50px;
 
 }
 
@@ -140,8 +140,8 @@ margin-top: 50px;
 
 .raise:hover,
 .raise:focus {
-  box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
-  transform: translateY(-0.25em);
+    box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
+    transform: translateY(-0.25em);
 }
 
 
@@ -150,23 +150,23 @@ margin-top: 50px;
 
 .piepagina {
 
-background-color: #212529;
-height: 7em;
-width: 100vw;
-margin-top: 60px;
+    background-color: #212529;
+    height: 7em;
+    width: 100vw;
+    margin-top: 60px;
 
 }
 
 
 .espacioderechos {
 
-margin-top: 50px;
+    margin-top: 50px;
 
 }
 
 .derechos {
 
-color: black;
+    color: gainsboro;
 
 }
 
@@ -176,7 +176,7 @@ color: black;
 
     height: 1.8em;
     width: 2em;
-    margin-left:15px;
+    margin-left: 15px;
     margin-top: -10px;
 
 }

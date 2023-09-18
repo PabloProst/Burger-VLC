@@ -17,81 +17,85 @@
     <link rel="stylesheet" href="css/styles.css">
 
 </head>
+
 <body>
-    
+
     <div class="container-fluid">
 
-                <!-- NAVBAR -->
-                <div class="row">
-                    <nav class="navbar navbar-expand-lg navbar-dark bg-dark navbar-main">
-                        <div class="container-fluid">
-                            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
-                                data-bs-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false"
-                                aria-label="Toggle navigation">
-                                <span class="navbar-toggler-icon"></span>
-                            </button>
-                            <a class="navbar-brand" href="index.html">
-                                <img src="img/burgericon.png" id="iconoburger">BurgerVLC
-                            </a>
-                            <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
-                                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                                    <li class="nav-item">
-                                        <a class="nav-link" aria-current="page" href="index.html">Home</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link" href="#">Menu</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link active" href="contacto.html">Contacto</a>
-                                    </li>
-                                </ul>
-        
-                            </div>
-                        </div>
-                    </nav>
+        <!-- NAVBAR -->
+        <div class="row">
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark navbar-main">
+                <div class="container-fluid">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false"
+                        aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <a class="navbar-brand" href="index.html">
+                        <img src="img/burgericon.png" id="iconoburger">BurgerVLC
+                    </a>
+                    <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
+                        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                            <li class="nav-item">
+                                <a class="nav-link" href="index.html">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="menu.html">Menu</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link active" aria-current="page" href="contacto.html">Contacto</a>
+                            </li>
+                        </ul>
+
+                    </div>
                 </div>
+            </nav>
+        </div>
 
 
-<!-- FORMULARIO DE CONTACTO -->
+        <!-- FORMULARIO DE CONTACTO -->
 
-<form class="text-center p-5" action="#!">
+        <form class="text-center p-5" action="#!">
 
-    <p class="h4 mb-4 text-white">Contacta con nosotros</p>
+            <p class="h4 mb-4 text-white">Contacta con nosotros</p>
 
-    <!-- NNOMBRE -->
-    <input type="text" id="defaultContactFormName" class="form-control mb-4" placeholder="Nombre" maxlength="40">
+            <!-- NNOMBRE -->
+            <input type="text" id="defaultContactFormName" class="form-control mb-4" placeholder="Nombre"
+                maxlength="40">
 
-    <!-- CORREO -->
-    <input type="email" id="defaultContactFormEmail" class="form-control mb-4" placeholder="E-mail" maxlength="50">
+            <!-- CORREO -->
+            <input type="email" id="defaultContactFormEmail" class="form-control mb-4" placeholder="E-mail"
+                maxlength="50">
 
-    <!-- TELEFONO -->
+            <!-- TELEFONO -->
 
-    <input type="number" id="defaultContactFormEmail" class="form-control mb-4" placeholder="Teléfono" max="20">
+            <input type="number" id="defaultContactFormEmail" class="form-control mb-4" placeholder="Teléfono" max="20">
 
-    <!-- MOTIVO -->
-    <select class="browser-default custom-select mb-4">
-        <option value="" disabled>Choose option</option>
-        <option value="1" selected>Motivo</option>
-        <option value="2">Reservar</option>
-        <option value="3">Celebra tu cumpleaños aquí</option>
-        <option value="4">Consulta</option>
-    </select>
+            <!-- MOTIVO -->
+            <select class="browser-default custom-select mb-4">
+                <option value="" disabled>Choose option</option>
+                <option value="1" selected>Motivo</option>
+                <option value="2">Reservar</option>
+                <option value="3">Celebra tu cumpleaños aquí</option>
+                <option value="4">Consulta</option>
+            </select>
 
-    <!-- MENSAJE -->
-    <div class="form-group">
-        <textarea class="form-control rounded-0" id="exampleFormControlTextarea2" rows="3" placeholder="Mensaje (max. 150 caracteres)" maxlength="150"></textarea>
-    </div>
+            <!-- MENSAJE -->
+            <div class="form-group">
+                <textarea class="form-control rounded-0" id="exampleFormControlTextarea2" rows="3"
+                    placeholder="Mensaje (max. 150 caracteres)" maxlength="150"></textarea>
+            </div>
 
-    <!-- TERMINOS -->
-    <div class="custom-control custom-checkbox mb-4">
-        <input type="checkbox" class="custom-control-input" id="defaultContactFormCopy">
-        <label class="custom-control-label text-white" for="defaultContactFormCopy">Acepto los términos</label>
-    </div>
+            <!-- TERMINOS -->
+            <div class="custom-control custom-checkbox mb-4">
+                <input type="checkbox" class="custom-control-input" id="defaultContactFormCopy">
+                <label class="custom-control-label text-white" for="defaultContactFormCopy">Acepto los términos</label>
+            </div>
 
-    <!-- BOTON ENVIAR -->
-    <button class="btn btn-outline-black btn-lg btn-light raise">Enviar</button>
+            <!-- BOTON ENVIAR -->
+            <button class="btn btn-outline-black btn-lg btn-light raise">Enviar</button>
 
-</form>
+        </form>
 
 
         <!-- PIE DE PAGINA -->
@@ -117,4 +121,5 @@
 
 
 </body>
+
 </html>
