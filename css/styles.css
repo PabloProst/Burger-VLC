@@ -126,13 +126,54 @@ scale: .8;
 
 .segundacolumnaindex {
 
-margin-top: 22px;
+margin-top: 50px;
 
 }
 
 .descripcion {
 
     font-family: fantasy;
-    font-size: 80px;
+    font-size: 4.2vw;
+
+}
+
+
+/* BOTONES */
+
+
+
+
+/* PIE PAGINA */
+
+.piepagina {
+
+background-color: #212529;
+height: 7em;
+width: 100vw;
+margin-top: 60px;
+
+}
+
+
+.espacioderechos {
+
+margin-top: 50px;
+
+}
+
+.derechos {
+
+color: black;
+
+}
+
+
+
+.logofinal {
+
+    height: 1.8em;
+    width: 2em;
+    margin-left:15px;
+    margin-top: -10px;
 
 }
