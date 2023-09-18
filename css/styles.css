@@ -187,7 +187,7 @@ body {
 
     height: 20rem;
     margin: 30px;
-    background-color: wheat;
+    background-color: whitesmoke;
 
 }
 
@@ -254,8 +254,38 @@ body {
 
 }
 
+
+.promociones3 {
+
+    font-family: fantasy;
+    font-size: 50px;
+    text-decoration: underline orange 3px;
+
+}
+
+.promociones4 {
+
+    font-family: fantasy;
+    font-size: 50px;
+    text-decoration: underline orange 3px;
+
+}
+
+.promociones4 {
+
+    margin-left: 4px;
+
+}
+
 .promociones2 {
 
     margin-left: -3px;
+
+}
+
+.card:hover {
+
+    cursor: pointer;
+    scale: 1.1;
 
 }
