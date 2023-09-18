@@ -180,3 +180,82 @@ body {
     margin-top: -10px;
 
 }
+
+/* MENU */
+
+.card {
+
+    height: 20rem;
+    margin: 30px;
+    background-color: wheat;
+
+}
+
+.titulomenu {
+
+    font-family: fantasy;
+    font-size: 70px;
+
+}
+
+.subtitulomenu {
+
+    font-family: fantasy;
+    font-size: 30px;
+
+}
+
+.card-img-top {
+
+    margin-top: 20px;
+    height: 20vh;
+    object-fit: cover;
+
+}
+
+.card-body {
+
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+
+@media (max-width: 767px) {
+    .hidden-mobile {
+        display: none;
+
+    }
+
+    .img-responsive {
+        position: relative;
+        left: 80%;
+        transform: translate(-50%, 0);
+        -ms-transform: translate(-50%, 0);
+        -webkit-transform: translate(-50%, 0);
+        scale: .9;
+        margin-bottom: 40px;
+    }
+}
+
+.promociones {
+
+    font-family: fantasy;
+    font-size: 50px;
+    text-decoration: underline orange 3px;
+
+}
+
+.promociones2 {
+
+    font-family: fantasy;
+    font-size: 50px;
+    text-decoration: underline orange 3px;
+
+}
+
+.promociones2 {
+
+    margin-left: -3px;
+
+}
