@@ -146,6 +146,7 @@ body {
 
 
 
+
 /* PIE PAGINA */
 
 .piepagina {
@@ -236,6 +237,12 @@ body {
         scale: .9;
         margin-bottom: 40px;
     }
+
+
+    .botones {
+        margin: -100px -20px 10px 5px;
+    }
+
 }
 
 .promociones {
@@ -287,5 +294,14 @@ body {
 
     cursor: pointer;
     scale: 1.1;
+
+}
+
+
+.espaciobotones {
+
+    width: 100vw;
+    height: 100px;
+    background-color: black;
 
 }
