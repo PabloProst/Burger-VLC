@@ -41,8 +41,9 @@ __<h2 align="center">Proyecto 1 - Carta Restaurante </h2>
 ![BOTONES](img/botonesindex.png)
 
 <p>▸En la sección del MENU, los platos no tienen nombre que los caracterice, ni tampoco muestran el costo de los mismos, por lo que puede haber problemas a la hora de preguntar acerca de un plato y también los clientes pueden no concurrir al restaurante ya que no tienen conocimiento del costo de la comida.</p>
+
 ​
-![NO PRICES](img/noprice.png)
+![NOPRECIOS](img/noprice.png)
 
 <h2 style="color: orange"> ✱ TECNOLOGÍAS UTILIZADAS: </h2>
 
@@ -58,7 +59,7 @@ __<h2 align="center">Proyecto 1 - Carta Restaurante </h2>
 
 <p>▻ En la página de CONTACTO, el footer se muestra desplazado hacia arriba dejando ver una línea negra debajo del todo.</p>
 
-![FOOTER](img/footer.png.png)
+![FOOTER](img/footer.png)
 ​
 <p style="color: cyan" align="center">Estos bugs se intentaron solucionar pero no se logró.</p>​
 
