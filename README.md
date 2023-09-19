@@ -52,11 +52,5 @@ __<h2 align="center">Proyecto 1 - Carta Restaurante </h2>
 <p>➳ CSS</p>
 
 ​
-<h1 align="center" style="color: red">BUGS</p></h1>
-
-<p>▻ Al movernos a la página de MENU o CONTACTO y entrar en modo responsive, el menú hamburguesa situado en la parte superior no funciona y no se despliega.</p>
-
-​
-<p style="color: cyan" align="center">Estos bugs se intentaron solucionar pero no se logró.</p>​
 
 ​
