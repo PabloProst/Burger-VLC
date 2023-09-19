@@ -3,7 +3,7 @@
 ​
 __<h2 align="center">Proyecto 1 - Carta Restaurante </h2>
 ​
-<p>Este proyecto fue realizado en su totalidad por Pablo Ezequiel Prost, alumno del Bootcamp Full Stack Developer de Valencia, en Septiembre de 2023.</p>
+<p>Este proyecto fue realizado por Pablo Ezequiel Prost, alumno del Bootcamp Full Stack Developer de Valencia, en Septiembre de 2023.</p>
 <p align="center">_______________________________________________________________</p>
 ​
 ​
@@ -56,10 +56,6 @@ __<h2 align="center">Proyecto 1 - Carta Restaurante </h2>
 
 <p>▻ Al movernos a la página de MENU o CONTACTO y entrar en modo responsive, el menú hamburguesa situado en la parte superior no funciona y no se despliega.</p>
 
-
-<p>▻ En la página de CONTACTO, el footer se muestra desplazado hacia arriba dejando ver una línea negra debajo del todo.</p>
-
-![FOOTER](img/footer.png)
 ​
 <p style="color: cyan" align="center">Estos bugs se intentaron solucionar pero no se logró.</p>​
 
